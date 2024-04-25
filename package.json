@@ -1,18 +1,34 @@
 {
-  "name": "@ReguideWIKI/TeaSimple-ReGuide",
+  "name": "@xdanangelxoqenpm/quo-deleniti-ipsa",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "author": "xdanangelxoqE",
   "license": "MIT",
+  "dependencies": {
+    "@emiplegiaqmnpm/ad-aliquam-temporibus": "^1.0.0",
+    "@osjwnpm/incidunt-saepe-dicta": "^1.0.0",
+    "@xdanangelxoqenpm/aliquam-eligendi-nulla": "^1.0.0",
+    "@xdanangelxoqenpm/assumenda-quidem-cumque": "^1.0.0",
+    "@xdanangelxoqenpm/ducimus-repellat-iste": "^1.0.0",
+    "@xdanangelxoqenpm/ex-vitae-eum": "^1.0.0",
+    "@xdanangelxoqenpm/iusto-beatae-error": "^1.0.0",
+    "@xdanangelxoqenpm/nostrum-sapiente-minus": "^1.0.0",
+    "@xdanangelxoqenpm/perspiciatis-molestias-alias": "^1.0.0",
+    "@xdanangelxoqenpm/quia-libero-voluptate": "^1.0.0",
+    "@xdanangelxoqenpm/sunt-neque-ut": "^1.0.0",
+    "@xdanangelxoqenpm/unde-nam-dolores": "^1.0.0"
+  },
+  "keywords": [
+    "language"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ReguideWIKI/TeaSimple-ReGuide.git"
+    "url": "https://github.com/xdanangelxoqenpm/quo-deleniti-ipsa.git"
   },
-  "dependencies": {
-    
-  }
+  "homepage": "https://github.com/xdanangelxoqenpm/quo-deleniti-ipsa/#readme",
+  "bugs": {
+    "url": "https://github.com/xdanangelxoqenpm/quo-deleniti-ipsa/issues"
+  },
+  "packageManager": "yarn@4.1.1"
 }
